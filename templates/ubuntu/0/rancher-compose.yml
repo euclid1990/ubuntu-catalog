@@ -25,7 +25,7 @@
       type: "string"
     - variable: authorized_keys
       description: "Adding SSH Keys to authorized_keys"
-      label: "authorized key"
+      label: "Authorized keys"
       required: false
       default: ""
       type: "string"

@@ -1,5 +1,5 @@
 name: Ubuntu
 description: |
   Ubuntu docker images with SSH access, Vim and Net tools
-version: v0.1
+version: v1.0
 category: Server
